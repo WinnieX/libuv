@@ -88,9 +88,9 @@
         ]
       }
     },
-	#'msbuild_toolset': 'v140_xp',  # VS2015
-	'msbuild_toolset': 'v120_xp',  # VS2013
-	#'msbuild_toolset': 'v110_xp',  # VS2012
+  #'msbuild_toolset': 'v140_xp',  # VS2015
+  'msbuild_toolset': 'v120_xp',  # VS2013
+  #'msbuild_toolset': 'v110_xp',  # VS2012
     'msvs_settings': {
       'VCCLCompilerTool': {
         'StringPooling': 'true', # pool string literals
